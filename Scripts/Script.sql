@@ -5,3 +5,6 @@ CREATE TABLE  student(
    HOMEADDRESS     CHAR(50),
    GRADE           INT
 ); 
+
+
+11111
